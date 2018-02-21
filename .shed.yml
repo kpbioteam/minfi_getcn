@@ -1,0 +1,6 @@
+categories: [Epigenetics]
+description: Get the coordinating node associated with this D1Client object
+homepage_url: https://github.com/kpbioteam/minfi_getcn
+name: minfi_getcn
+owner: kpbioteam
+remote_repository_url: https://github.com/kpbioteam/minfi_getcn
